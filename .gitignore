@@ -1,0 +1,4 @@
+/vendor/
+.ddev
+*.csv
+*.zip

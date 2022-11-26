@@ -1,0 +1,15 @@
+{
+    "name": "wnetbox/extras-lunar-brd",
+    "description": "Script PHP pentru generarea extrasului lunar CSV pe baza arhivei de tranzactii extrase CSV furnizata de BRD@Office",
+    "type": "project",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Bogdan Dinu",
+            "email": "bogdan@wnetbox.eu"
+        }
+    ],
+    "require": {
+        "ext-zip": "*"
+    }
+}
