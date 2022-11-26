@@ -1,5 +1,5 @@
 # Extras lunar BRD
-Script PHP pentru generarea extrasului lunar CSV pe baza arhivei de tranzactii extrase CSV furnizata de BRD@Office
+Aplicatia BRD@Office exporta extrasele lunare doar in format PDF sau ca arhiva cu extrase zilnice. Scriptul de fata agrega extrasele zilnice din arhiva intr-un singur csv.
 
 ## Cerinte
 scriptul necesita extensia Zip sa fie instalata
